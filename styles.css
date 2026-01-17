@@ -8,8 +8,8 @@
     --text-color: #ff4757;
 
     /* Animations */
-    --float-duration: 15s;
-    --float-distance: 50px;
+    --float-duration: 0s;
+    --float-distance: 0px;
     --bounce-speed: 0s;
     --heart-explosion-size: 1.5;
 }
